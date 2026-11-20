@@ -1,0 +1,6 @@
+**/build/
+**/.dart_tool/
+**/google-services.json
+**/GoogleService-Info.plist
+.env
+.env.*
